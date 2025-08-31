@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import sys
-sys.path.append("../")
+sys.path.append("300805/")
 from model import Kronos, KronosTokenizer, KronosPredictor
 
 
